@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34931.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SS SOFTWARE ESTIMATE BILL", "SS SOFTWARE ESTIMATE BILL\SS SOFTWARE ESTIMATE BILL.csproj", "{68052E65-F6CA-4F56-B858-A5787F5781A1}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SS SOFTWARE ESTIMATE BILL SETUP", "..\SS SOFTWARE ESTIMATE BILL SETUP\SS SOFTWARE ESTIMATE BILL SETUP.vdproj", "{15DFC9E8-664C-43DD-B282-9E5C0BB3F87F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68052E65-F6CA-4F56-B858-A5787F5781A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68052E65-F6CA-4F56-B858-A5787F5781A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68052E65-F6CA-4F56-B858-A5787F5781A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68052E65-F6CA-4F56-B858-A5787F5781A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15DFC9E8-664C-43DD-B282-9E5C0BB3F87F}.Debug|Any CPU.ActiveCfg = Debug
+		{15DFC9E8-664C-43DD-B282-9E5C0BB3F87F}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2FA90A1B-D3AE-484F-B88B-9FD4B2921F4E}
+	EndGlobalSection
+EndGlobal
